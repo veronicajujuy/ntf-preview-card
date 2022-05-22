@@ -1,0 +1,26 @@
+body {
+    font-family: 'Outfit', sans-serif;
+    background-color: hsl(217, 54%, 11%);
+}
+
+.card {
+    margin-top:100px;
+    background-color: hsl(216, 50%, 16%);
+    color: hsl(0, 0%, 100%);
+}
+
+.card-img-top {
+    border: 5%;
+}
+
+.imagen {
+    width: 30px;
+    height: 30px;
+    margin: 10px;
+    border: 1px hsl(0, 0%, 100%) solid;
+    border-radius: 50%;
+}
+
+.card-text {
+    color: hsl(215, 51%, 70%);
+}
