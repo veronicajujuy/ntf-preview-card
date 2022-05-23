@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: ([https://your-solution-url.com](https://github.com/veronicajujuy/ntf-preview-card))
+- Live Site URL: ([https://your-live-site-url.com](https://ntf-preview-card-alpha.vercel.app/))
 
 ## My process
 
@@ -52,7 +52,5 @@ I deep into the use of bootstrap.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@veronicajujuy](https://www.frontendmentor.io/profile/veronicajujuy)
 
